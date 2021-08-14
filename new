@@ -1,0 +1,7 @@
+echo "# SBSPS-Challenge-5570-Fashion-Redefined-with-Virtual-Grooming-Shopping-Assistant" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:smartinternz02/SBSPS-Challenge-5570-Fashion-Redefined-with-Virtual-Grooming-Shopping-Assistant.git
+git push -u origin main
